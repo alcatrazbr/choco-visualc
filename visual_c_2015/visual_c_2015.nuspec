@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <title>visual c 2015</title>
     <authors>Microsoft</authors>
-    <projectUrl>http://xqx.com.br/public/vc_redist.x64.exe</projectUrl>
+    <projectUrl>https://github.com/alcatrazbr/choco-visualc</projectUrl>
     <tags>visual c 2015</tags>
     <summary>visual c 2015</summary>
     <description>visual c</description>
