@@ -8,6 +8,7 @@
     <projectUrl>https://github.com/alcatrazbr/choco-visualc</projectUrl>
     <tags>visual c 2015</tags>
     <summary>visual c 2015</summary>
+	<iconUrl>https://github.com/Microsoft/vscode/issues/29430</iconUrl>
     <description>visual c</description>
   </metadata>
   <files>
